@@ -10,7 +10,7 @@ https://github.com/sparkfun/BigTime
 
 ## model
 
-<img src="./BigTime-sunghwan.jpg" height="250px" width="350px">
+<img src="./BigTime-sunghwan.jpg" height="250px" width="500px">
 
 ## what is that ?
 
