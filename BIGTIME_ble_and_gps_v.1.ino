@@ -469,7 +469,7 @@ void loop() {
     //In case of conditions in seconds, it was not clear, so it was required to identify true lies and implement regular notification.
     //It also requires the date to be calculated by displaying the date at 0 o'clock using the time when the notification is received.
 
-
+  //main choice loop
     switch (countSecond)
     {
       case 0:
