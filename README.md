@@ -21,3 +21,5 @@ add remote tv b gone (release) and fixed bug
 ## how to different ?
 
 It is main features are `vibration notifications`, `laser`, `flashlights`, and `bulls and caws`.
+
+-> [여기](https://youtube.com/shorts/xjuo3ZrRKAQ?feature=share)를 참고하세요.
