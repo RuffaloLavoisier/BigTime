@@ -20,9 +20,9 @@ https://github.com/sparkfun/BigTime
 
 <img src="./img/Bigtime-sunghwan2.jpg" height="450px" width="350px">  
 
-기존 기능에서 다양한 모듈을 활성화 및 구현할 수 있도록 버튼 클릭을 얼마나 지속하고 있는지를 확인하는 **버튼 입력 시간차** 결과에 따라 기능을 수행합니다.    
+기존 기능에서 다양한 모듈을 활성화 및 구현할 수 있도록 버튼 클릭을 얼마나 지속하고 있는지를 확인하는 [**버튼 입력 시간차**](https://youtube.com/shorts/xjuo3ZrRKAQ?feature=share) 결과에 따라 기능을 수행합니다.    
 
-## how to different ?
+## Special
 
 다양한 기능을 구현할 수 있게 메뉴 전환 기능을 추가하였습니다.  
 It is main features are `vibration notifications`, `laser`, `flashlights`, and `bulls and caws`.
